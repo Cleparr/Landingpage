@@ -1,9 +1,11 @@
-@import url('bootstrap.min.css');
+div#blocGauche{
+
+	/*height:150px;*/
+	height:50%;
+	background-color:#FF3300;
+}
+
+div#blocDroite{
 
 
-body {
-/*color:black;
-background-color:white;*/
-background-image:url(c:/Users/Clément/Desktop/Landingpage/photo_bureau.jpg);
-background-size:100% auto;
 }
