@@ -1,12 +1,9 @@
-h1{
-font-size: 30px;
-text-align: center;
-color: #FF9696
-}
+@import url('bootstrap.min.css');
 
 
 body {
-color:black;
-background-color:white;
-background-image:url(c:/Users/Clément/Desktop/Landingpage/photobureau);
+/*color:black;
+background-color:white;*/
+background-image:url(c:/Users/Clément/Desktop/Landingpage/photo_bureau.jpg);
+background-size:100% auto;
 }
