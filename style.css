@@ -7,12 +7,17 @@ div#blocGauche{
 }
 
 div#blocDroite{
-
+	
+	text-align: center;
 
 }
 
 
-h1.center {
-	
+body {
+  margin:0;
+  padding:0;
+  background: url(photo_bureau.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
 
 }
