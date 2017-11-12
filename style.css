@@ -19,5 +19,14 @@ body {
   background: url(photo_bureau.jpg) no-repeat center fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
+}
 
+input#InputEmail1{
+
+	width: 50%
+}
+
+button#boutonEnvoyer{
+
+	color: yellow;
 }
