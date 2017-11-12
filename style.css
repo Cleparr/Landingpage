@@ -1,6 +1,6 @@
 div#blocGauche{
 	/*height:150px;*/
-	height:150px;
+	height:100%;
 	background-color:#01DFC1;
 }
 
@@ -10,7 +10,7 @@ div#blocDroite{
 }
 
 <body>
-p.center {
+h1.center {
 	text-align: center;
 	font-size: 200%
 
