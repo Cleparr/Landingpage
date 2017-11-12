@@ -24,6 +24,7 @@ body {
 input#InputEmail1{
 
 	width: 50%
+	text-align:center;
 }
 
 button#boutonEnvoyer{
