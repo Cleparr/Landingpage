@@ -1,8 +1,7 @@
 div#blocGauche{
-	/*height:150px;*/
-	height:100%;
+	
 	text-align: center;
-	font-size: 500%
+	font-size: 100%
 	color: white;
 	vertical-align: center;
 }
