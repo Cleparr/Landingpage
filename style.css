@@ -3,6 +3,7 @@ div#blocGauche{
 	height:100%;
 	text-align: center;
 	font-size: 200%
+	vertical-align: center;
 }
 
 div#blocDroite{
