@@ -1,14 +1,18 @@
 div#blocGauche{
 	
 	text-align: center;
-	font-size: 100%
-	color: white;
 	vertical-align: center;
 }
 
 div#blocDroite{
 	
 	text-align: center;
+
+}
+
+h1#Paroo{
+	font-size: 100%
+	color: white;
 
 }
 
