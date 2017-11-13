@@ -20,7 +20,7 @@ h1#Paroo{
 body {
   margin:0;
   padding:0;
-  background: url(photo_site.gif) no-repeat center fixed; 
+  background: url(photo_site.jpg) no-repeat center fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
 }
