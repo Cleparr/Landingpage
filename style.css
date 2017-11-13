@@ -25,9 +25,11 @@ input#InputEmail1{
 
 	width: 50%
 	text-align:center;
+	background-color: #FFFFFF;
 }
 
 button#boutonEnvoyer{
 
 	color: yellow;
+
 }
